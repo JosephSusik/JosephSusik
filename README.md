@@ -1,5 +1,5 @@
 ### Hello, I'm Joseph Susik
-#### Fronted Developer from Czech Republic
+#### Frontend Developer from Czech Republic
 I study [Faculty of Information Technology, BUT](https://www.fit.vut.cz/.en)
 
 

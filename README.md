@@ -1,6 +1,6 @@
 ### Hello, I'm Joseph Susik
 #### Frontend Developer from Czech Republic
-I study [Faculty of Information Technology, BUT](https://www.fit.vut.cz/.en)
+I have a Bachelor's degree in Information Technology from the [Faculty of Information Technology, BUT](https://www.fit.vut.cz/.en)
 
 
 <!---
